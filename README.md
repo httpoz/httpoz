@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### 🚀 Current projects
+- 🔭 A baby tracking app, to be a "data driven dad".
+- 🔭 Writing my thoughts on leadership [httpoz/awesome-engineering-leadership](https://github.com/httpoz/awesome-engineering-leadership)
+
+#### 🌳 What am I currently learning?
+- 🌱 Kotlin and Spring Boot.
+
 <!--
 **httpoz/httpoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

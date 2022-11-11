@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### 🚀 Current projects
-- 🔭 A baby tracking app, to be a "data driven dad".
 - 🔭 Writing my thoughts on leadership [httpoz/awesome-engineering-leadership](https://github.com/httpoz/awesome-engineering-leadership)
 
 #### 🌳 What am I currently learning?

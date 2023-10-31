@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🚀 Current projects
-- 🔭 Writing my thoughts on leadership [httpoz/engineering-management-tools](https://github.com/httpoz/engineering-management-tools)
+- 🔭 Documenting my tools and frameworks for management @ [httpoz/engineering-management-tools](https://github.com/httpoz/engineering-management-tools)
 
 #### 🌳 What am I currently learning?
 - 🌱 Kotlin and Spring Boot.

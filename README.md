@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 #### 🚀 Current projects
-- 🔭 Documenting my tools and frameworks for management @ [httpoz/engineering-management-tools](https://github.com/httpoz/engineering-management-tools)
+No active open source projects.
 
 #### 🌳 What am I currently learning?
-- 🌱 Kotlin and Spring Boot.
+- 🌱 Building data transformers with Kotlin and Spring Boot.
+- 🐍 Building services with Python and FastAPI.
+- 🤖 Diving into data science through [kaggle](https://www.kaggle.com/httpoz)
 
 <!--
 **httpoz/httpoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
